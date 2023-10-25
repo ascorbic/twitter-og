@@ -1,8 +1,8 @@
 ---
 title: "Bring back the Twitter link preview"
 description: "Use dynamic OG images to bring back the Twitter link preview"
-pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: "Oct 25 2023"
+heroImage: "https://images.unsplash.com/photo-1601805825132-5d7bbab226d3?auto=format&fit=crop&w=960&h=380"
 ---
 
 In September 2023, Twitter (sorry, X) changed links to no longer show a preview of the link. They just show an image. This was done to make things look nicer, but makes it hard to see what is a link and what is just an image. You also can't see the title or description anymore. Many people don't want to click links if they don't know what the target is, so this is a problem.
