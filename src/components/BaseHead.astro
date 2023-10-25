@@ -16,8 +16,8 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 const og = new URL("/og/twitter", Astro.url);
 
 og.searchParams.set("title", title);
-og.searchParams.set("description", description);
 og.searchParams.set("image", new URL(image, Astro.url).toString());
+og.searchParams.set("description", description);
 ---
 
 <!-- Global Metadata -->
