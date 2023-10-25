@@ -1,6 +1,6 @@
 ---
 title: "Bring back the Twitter link preview"
-description: "Use dynamic OG images to bring back the Twitter link preview"
+description: "Use dynamic OG images to make links look like links again"
 pubDate: "Oct 25 2023"
 heroImage: "https://images.unsplash.com/photo-1601805825132-5d7bbab226d3?auto=format&fit=crop&w=960&h=380"
 ---
