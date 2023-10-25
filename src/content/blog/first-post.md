@@ -84,7 +84,7 @@ return new ImageResponse(
             display: "flex",
             flexDirection: "column",
             width: "100%",
-            padding: 20,
+            padding "20px 48px",
           }}
         >
           <p
@@ -215,7 +215,7 @@ export default function handler(req: Request) {
             flexDirection: "column",
             width: "100%",
             fontSize: 28,
-            padding: 20,
+            padding "20px 48px",
           }}
         >
           <p
@@ -340,7 +340,7 @@ export default function handler(req: Request) {
             flexDirection: "column",
             width: "100%",
             fontSize: 28,
-            padding: 20,
+            padding "20px 48px",
           }}
         >
           <p
